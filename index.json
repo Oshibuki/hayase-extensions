@@ -9,12 +9,12 @@
     "ratio": 0,
     "media": "both",
     "languages": [
-      "US",
+      "CN",
       "JP"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:vebb374/hayase-extensions",
-    "code": "gh:vebb374/hayase-extensions/nyaasi"
+    "update": "gh:Oshibuki/hayase-extensions",
+    "code": "gh:Oshibuki/hayase-extensions/nyaasi"
   },
   {
     "name": "Sukebei Nyaa",
@@ -26,11 +26,11 @@
     "ratio": 0,
     "media": "both",
     "languages": [
-      "US",
+      "CN",
       "JP"
     ],
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "gh:vebb374/hayase-extensions",
-    "code": "gh:vebb374/hayase-extensions/sukebei-nyaa"
+    "update": "gh:Oshibuki/hayase-extensions",
+    "code": "gh:Oshibuki/hayase-extensions/sukebei-nyaa"
   }
 ]
